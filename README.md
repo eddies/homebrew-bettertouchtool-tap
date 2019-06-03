@@ -7,11 +7,11 @@ See: https://folivora.ai/blog/post/13005
 
 ```sh
 brew tap eddies/bettertouchtool-tap
-brew install bettertouchtool@VERSION_NUMBER
+brew install bettertouchtool-VERSION_NUMBER
 ```
 
 ## List available versions
 
 ```sh
-brew search bettertouchtool@
+brew search bettertouchtool-
 ```
